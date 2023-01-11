@@ -1,0 +1,6 @@
+C:\poo clases y objetos c#\Horas a dias\Horas a dias\bin\Debug\Horas a dias.exe.config
+C:\poo clases y objetos c#\Horas a dias\Horas a dias\bin\Debug\Horas a dias.exe
+C:\poo clases y objetos c#\Horas a dias\Horas a dias\bin\Debug\Horas a dias.pdb
+C:\poo clases y objetos c#\Horas a dias\Horas a dias\obj\Debug\Horas a dias.csprojResolveAssemblyReference.cache
+C:\poo clases y objetos c#\Horas a dias\Horas a dias\obj\Debug\Horas a dias.exe
+C:\poo clases y objetos c#\Horas a dias\Horas a dias\obj\Debug\Horas a dias.pdb
