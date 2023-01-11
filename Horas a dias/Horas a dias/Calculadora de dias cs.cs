@@ -39,7 +39,7 @@ namespace Horas_a_dias
         {
             Console.WriteLine("son "+dia+" Dias "+" "+" Con " +residuo+" Horas ");
         }
-        }
+        }/*soy muy bueno*/
 
 
             
